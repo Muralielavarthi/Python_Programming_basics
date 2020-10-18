@@ -10,24 +10,10 @@ File Name:
 2. module_example.py 
 3. Python_Programming_OOP.ipynb
 
+Happy Learning 
 
-Rough Estimated time to complete:
---------------------------------
-
-4 hours
-
-Happy Learning!
-
-Murali
-
-
-Last Updated:
-------------
-18-OCT-2020
-
-
-" Nothing is permanent in life " 
---------------------------------
+"Nothing is permanent in life" 
+-----------------------------
 
 
 

@@ -7,8 +7,8 @@ File Name:
 ---------
 
 1. Python_Programming_Basics.ipynb
-
-2. Python_Programming_OOP.ipynb
+2. module_example.py 
+3. Python_Programming_OOP.ipynb
 
 
 Rough Estimated time to complete:

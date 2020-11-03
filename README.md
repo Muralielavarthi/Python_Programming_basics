@@ -1,9 +1,10 @@
-First step in the Journey of becoming Data scientist 
-----------------------------------------------------
+Python Programming 
+-----------------
 
 This repo covers basics of python programming and OOP concept.
 
-Happy Learning !
+Which I have used for learning.
+
 
 "Nothing is permanent in life" 
 -----------------------------
